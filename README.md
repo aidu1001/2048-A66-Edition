@@ -1,4 +1,4 @@
-# 2048 Infinite Dark Edition
+# 2048-A66-Edition
 
 Beautiful dark theme + infinite mode + mobile touch support + local best score  
 100% free, no ads, open source!
